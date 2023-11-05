@@ -1,0 +1,48 @@
+﻿Country / Territory;"ISO-3166-2
+(2 Letter Country Code)";"ISO-3166-3
+(3 Letter Country Code)";"ccTLD
+(Country Domain Extension)"
+Anguilla;AI;AIA;.ai
+Antigua and Barbuda;AG;ATG;.ag
+Aruba;AW;ABW;.aw
+Bahamas;BS;BHS;.bs
+Barbados;BB;BRB;.bb
+Belize;BZ;BLZ;.bz
+Bermuda;BM;BMU;.bm
+Bonaire;BQ;BES;.an
+British Virgin Islands;VG;VGB;.vg
+Canada;CA;CAN;.ca
+Cayman Islands;KY;CYM;.ky
+Costa Rica;CR;CRI;.cr
+Cuba;CU;CUB;.cu
+Curacao;CW;CUW;.cw
+Dominica;DM;DMA;.dm
+Dominican Republic;DO;DOM;.do
+El Salvador;SV;SLV;.sv
+Greenland;GL;GRL;.gl
+Grenada and Carriacuou;GD;GRD;.gd
+Guadeloupe;GP;GLP;.gp
+Guatemala;GT;GTM;.gt
+Haiti;HT;HTI;.ht
+Honduras;HN;HND;.hn
+Jamaica;JM;JAM;.jm
+Martinique;MQ;MTQ;.mq
+Mexico;MX;MEX;.mx
+Miquelon;PM;SPM;.pm
+Montserrat;MS;MSR;.ms
+Netherlands Antilles;CW;ANT;.an
+Nevis;KN;KNA;.kn
+Nicaragua;NI;NIC;.ni
+Panama;PA;PAN;.pa
+Puerto Rico;PR;PRI;.pr
+Saba;BQ;BES;.an
+Sint Eustatius;BQ;BES;.an
+Sint Maarten;SX;SXM;.sx
+St. Kitts;KN;KNA;.kn
+St. Lucia;LC;LCA;.lc
+St. Pierre and Miquelon;PM;SPM;.pm
+St. Vincent;VC;VCT;.vc
+Trinidad and Tobago;TT;TTO;.tt
+Turks and Caicos Islands;TC;TCA;.tc
+United States;US;USA;.us
+US Virgin Islands;VI;VIR;.vi

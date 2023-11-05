@@ -1,0 +1,254 @@
+,Country / Territory,"ISO-3166-3
+(3 Letter Country Code)",Territory
+0,Algeria,DZA,africa
+1,Angola,AGO,africa
+2,Ascension,SHN,africa
+3,Benin,BEN,africa
+4,Botswana,BWA,africa
+5,Burkina Faso,BFA,africa
+6,Burundi,BDI,africa
+7,Cameroon,CMR,africa
+8,Cape Verde Islands,CPV,africa
+9,Central African Republic,CAF,africa
+10,Chad Republic,TCD,africa
+11,Comoros,COM,africa
+12,Congo,COG,africa
+13,Dem. Republic of the Congo,COD,africa
+14,Djibouti,DJI,africa
+15,Egypt,EGY,africa
+16,Equatorial Guinea,GNQ,africa
+17,Eritrea,ERI,africa
+18,eSwatini,SWZ,africa
+19,Ethiopia,ETH,africa
+20,Gabon Republic,GAB,africa
+21,Gambia,GMB,africa
+22,Ghana,GHA,africa
+23,Guinea,GIN,africa
+24,Guinea-Bissau,GNB,africa
+25,Ivory Coast,CIV,africa
+26,Kenya,KEN,africa
+27,Lesotho,LSO,africa
+28,Liberia,LBR,africa
+29,Libya,LBY,africa
+30,Madagascar,MDG,africa
+31,Malawi,MWI,africa
+32,Mali Republic,MLI,africa
+33,Mauritania,MRT,africa
+34,Mauritius,MUS,africa
+35,Mayotte Island,MYT,africa
+36,Morocco,MAR,africa
+37,Mozambique,MOZ,africa
+38,Namibia,NAM,africa
+39,Niger Republic,NER,africa
+40,Nigeria,NGA,africa
+41,Principe,STP,africa
+42,Reunion Island,REU,africa
+43,Rwanda,RWA,africa
+44,Sao Tome,STP,africa
+45,Senegal Republic,SEN,africa
+46,Seychelles,SYC,africa
+47,Sierra Leone,SLE,africa
+48,Somalia Republic,SOM,africa
+49,South Africa,ZAF,africa
+50,South Sudan,SSD,africa
+51,St. Helena,SHN,africa
+52,Sudan,SDN,africa
+53,Swaziland,SWZ,africa
+54,Tanzania,TZA,africa
+55,Togo,TGO,africa
+56,Tunisia,TUN,africa
+57,Uganda,UGA,africa
+58,Zaire,COD,africa
+59,Zambia,ZMB,africa
+60,Zanzibar,TZA,africa
+61,Zimbabwe,ZWE,africa
+0,Afghanistan,AFG,asia
+1,Armenia,ARM,asia
+2,Azerbaijan,AZE,asia
+3,Bahrain,BHR,asia
+4,Bangladesh,BGD,asia
+5,Bhutan,BTN,asia
+6,Brunei,BRN,asia
+7,Cambodia,KHM,asia
+8,China,CHN,asia
+9,Christmas Island,CXR,asia
+10,Cocos Islands,CCK,asia
+11,Diego Garcia,IOT,asia
+12,Georgia,GEO,asia
+13,Hong Kong,HKG,asia
+14,India,IND,asia
+15,Indonesia,IDN,asia
+16,Iran,IRN,asia
+17,Iraq,IRQ,asia
+18,Israel,ISR,asia
+19,Japan,JPN,asia
+20,Jordan,JOR,asia
+21,Kazakhstan,KAZ,asia
+22,Kuwait,KWT,asia
+23,Kyrgyzstan,KGZ,asia
+24,Laos,LAO,asia
+25,Lebanon,LBN,asia
+26,Macau,MAC,asia
+27,Malaysia,MYS,asia
+28,Maldives,MDV,asia
+29,Mongolia,MNG,asia
+30,Myanmar,MMR,asia
+31,Nepal,NPL,asia
+32,North Korea,PRK,asia
+33,Oman,OMN,asia
+34,Pakistan,PAK,asia
+35,Palestine,PSE,asia
+36,Philippines,PHL,asia
+37,Qatar,QAT,asia
+38,Saudi Arabia,SAU,asia
+39,Singapore,SGP,asia
+40,South Korea,KOR,asia
+41,Sri Lanka,LKA,asia
+42,Syria,SYR,asia
+43,Taiwan,TWN,asia
+44,Tajikistan,TJK,asia
+45,Thailand,THA,asia
+46,Turkey,TUR,asia
+47,Turkmenistan,TKM,asia
+48,United Arab Emirates,ARE,asia
+49,Uzbekistan,UZB,asia
+50,Vietnam,VNM,asia
+51,Yemen,YEM,asia
+0,Albania,ALB,europa
+1,Andorra,AND,europa
+2,Austria,AUT,europa
+3,Belarus,BLR,europa
+4,Belgium,BEL,europa
+5,Bosnia and Herzegovina,BIH,europa
+6,Bulgaria,BGR,europa
+7,Croatia,HRV,europa
+8,Cyprus,CYP,europa
+9,Czech Republic,CZE,europa
+10,Denmark,DNK,europa
+11,Estonia,EST,europa
+12,Faroe Islands,FRO,europa
+13,Finland,FIN,europa
+14,France,FRA,europa
+15,Germany,DEU,europa
+16,Gibraltar,GIB,europa
+17,Greece,GRC,europa
+18,Hungary,HUN,europa
+19,Iceland,ISL,europa
+20,Ireland,IRL,europa
+21,Isle of Man,IMN,europa
+22,Italy,ITA,europa
+23,Kosovo,XKX,europa
+24,Latvia,LVA,europa
+25,Liechtenstein,LIE,europa
+26,Lithuania,LTU,europa
+27,Luxembourg,LUX,europa
+28,Macedonia,MKD,europa
+29,Malta,MLT,europa
+30,Moldova,MDA,europa
+31,Monaco,MCO,europa
+32,Montenegro,MNE,europa
+33,Netherlands,NLD,europa
+34,Norway,NOR,europa
+35,Poland,POL,europa
+36,Portugal,PRT,europa
+37,Romania,ROU,europa
+38,Russia,RUS,europa
+39,San Marino,SMR,europa
+40,Serbia,SRB,europa
+41,Slovakia,SVK,europa
+42,Slovenia,SVN,europa
+43,Spain,ESP,europa
+44,Sweden,SWE,europa
+45,Switzerland,CHE,europa
+46,Ukraine,UKR,europa
+47,United Kingdom,GBR,europa
+48,Vatican city,VAT,europa
+49,Yugoslavia,RSB,europa
+0,American Samoa,ASM,oceania
+1,Australia,AUS,oceania
+2,"Chatham Island, NZ",NZL,oceania
+3,Cook Islands,COK,oceania
+4,East Timor,TLS,oceania
+5,Federated States of Micronesia,FSM,oceania
+6,Fiji Islands,FJI,oceania
+7,French Polynesia,PYF,oceania
+8,Guam,GUM,oceania
+9,Kiribati,KIR,oceania
+10,Mariana Islands,MNP,oceania
+11,Marshall Islands,MHL,oceania
+12,Midway Islands,UMI,oceania
+13,Nauru,NRU,oceania
+14,New Caledonia,NCL,oceania
+15,New Zealand,NZL,oceania
+16,Niue,NIU,oceania
+17,Norfolk Island,NFK,oceania
+18,Palau,PLW,oceania
+19,Papua New Guinea,PNG,oceania
+20,Saipan,MNP,oceania
+21,Samoa,WSM,oceania
+22,Solomon Islands,SLB,oceania
+23,Tokelau,TKL,oceania
+24,Tonga,TON,oceania
+25,Tuvalu,TUV,oceania
+26,Vanuatu,VUT,oceania
+27,Wake Island,UMI,oceania
+28,Wallis and Futuna Islands,WLF,oceania
+0,Anguilla,AIA,norteamerica
+1,Antigua and Barbuda,ATG,norteamerica
+2,Aruba,ABW,norteamerica
+3,Bahamas,BHS,norteamerica
+4,Barbados,BRB,norteamerica
+5,Belize,BLZ,norteamerica
+6,Bermuda,BMU,norteamerica
+7,Bonaire,BES,norteamerica
+8,British Virgin Islands,VGB,norteamerica
+9,Canada,CAN,norteamerica
+10,Cayman Islands,CYM,norteamerica
+11,Costa Rica,CRI,norteamerica
+12,Cuba,CUB,norteamerica
+13,Curacao,CUW,norteamerica
+14,Dominica,DMA,norteamerica
+15,Dominican Republic,DOM,norteamerica
+16,El Salvador,SLV,norteamerica
+17,Greenland,GRL,norteamerica
+18,Grenada and Carriacuou,GRD,norteamerica
+19,Guadeloupe,GLP,norteamerica
+20,Guatemala,GTM,norteamerica
+21,Haiti,HTI,norteamerica
+22,Honduras,HND,norteamerica
+23,Jamaica,JAM,norteamerica
+24,Martinique,MTQ,norteamerica
+25,Mexico,MEX,norteamerica
+26,Miquelon,SPM,norteamerica
+27,Montserrat,MSR,norteamerica
+28,Netherlands Antilles,ANT,norteamerica
+29,Nevis,KNA,norteamerica
+30,Nicaragua,NIC,norteamerica
+31,Panama,PAN,norteamerica
+32,Puerto Rico,PRI,norteamerica
+33,Saba,BES,norteamerica
+34,Sint Eustatius,BES,norteamerica
+35,Sint Maarten,SXM,norteamerica
+36,St. Kitts,KNA,norteamerica
+37,St. Lucia,LCA,norteamerica
+38,St. Pierre and Miquelon,SPM,norteamerica
+39,St. Vincent,VCT,norteamerica
+40,Trinidad and Tobago,TTO,norteamerica
+41,Turks and Caicos Islands,TCA,norteamerica
+42,United States,USA,norteamerica
+43,US Virgin Islands,VIR,norteamerica
+0,Argentina,ARG,sudamerica
+1,Bolivia,BOL,sudamerica
+2,Brazil,BRA,sudamerica
+3,Chile,CHL,sudamerica
+4,Colombia,COL,sudamerica
+5,Ecuador,ECU,sudamerica
+6,Falkland Islands,FLK,sudamerica
+7,French Guiana,GUF,sudamerica
+8,Guiana,GUF,sudamerica
+9,Guyana,GUY,sudamerica
+10,Paraguay,PRY,sudamerica
+11,Peru,PER,sudamerica
+12,Suriname,SUR,sudamerica
+13,Uruguay,URY,sudamerica
+14,Venezuela,VEN,sudamerica
